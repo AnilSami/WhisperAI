@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:03,820
+Hallo, mein Name ist Anna und ich komme aus Deutschland.
+
+2
+00:00:04,560 --> 00:00:08,480
+Heute möchte ich über das Thema umweltfreundliches Leben sprechen.
+
+3
+00:00:09,140 --> 00:00:12,740
+In den letzten Jahren ist der Klimawandel zu einem großen Problem geworden.
+
